@@ -1,16 +1,13 @@
-## Hi there 👋
+### just slickgangzy, writing code 👋
 
-<!--
-**slickgangzy/slickgangzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 🤔 Thinking about data engineering
+- 🛠️ Tinkering with side projects on weekends
+- 📫 How to reach me: **@slickgangzy** on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=slickgangzy&theme=ayu&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=slickgangzy&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Python-39d353?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/DuckDB-39d353?style=for-the-badge&logoColor=white" alt="DuckDB" /> <img src="https://img.shields.io/badge/Pandas-39d353?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-39d353?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/SQL-39d353?style=for-the-badge&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/NumPy-39d353?style=for-the-badge&logoColor=white" alt="NumPy" />
